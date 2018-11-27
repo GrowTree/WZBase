@@ -1,0 +1,6 @@
+framework module Pods_WZBase_Tests {
+  umbrella header "Pods-WZBase_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
